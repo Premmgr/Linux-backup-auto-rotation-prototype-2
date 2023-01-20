@@ -1,0 +1,6 @@
+.auto_conf
+.location_conf
+backup.conf
+log
+backups
+backups/auto_backup
