@@ -1,6 +1,6 @@
-# This script allows you to create backup with multi location with their log files
-# version of the script: v1.01
-# code owner: Premgmr
+This script allows you to create backup with multi location with their log files
+version of the script: v1.01
+code owner: Premgmr
 
 script functions 
 
