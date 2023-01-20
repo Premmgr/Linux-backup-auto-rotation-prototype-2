@@ -136,7 +136,7 @@ case "$1" in
           echo ">>>     --auto-restore (restores recent auto_backup from backup location)"
           printf "\n"
           ;;
-# finds all of tar.gz files in default backup location and deletes them after creating log
+# finds all of tar.gz files in default backup location and deletes oldest tar.gz after creating log
   "--delete")
                 # prompt confirmation
 
