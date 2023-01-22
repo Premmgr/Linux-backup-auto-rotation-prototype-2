@@ -1,4 +1,4 @@
-This script allows you to create backup with multi location with their log files
+This script allows you to create backups using backup.conf file location with their log files
 version of the script: v1.01
 code owner: Premgmr
 
